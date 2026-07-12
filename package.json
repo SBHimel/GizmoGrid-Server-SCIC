@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "dev": "nodemon index.ts",
-    "build": "tsc"
-  },
+  "dev": "nodemon"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
